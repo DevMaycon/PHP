@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php
-            echo htmlspecialchars("Welcome".$name."Logged with succesfull", ENT_QUOTES, "UTF-8");
+            echo htmlspecialchars("Welcome".$name, ENT_QUOTES, "UTF-8");
         ?>
     </body>
 </html>
