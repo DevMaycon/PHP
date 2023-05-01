@@ -7,6 +7,7 @@
         <title>Login</title>
     </head>
     <body>
+        ...............................
         <?php
             echo htmlspecialchars("Welcome".$_GET["Username"]."<br>using password: ".$_GET["Password"], ENT_QUOTES, "UTF-8");
         ?>
