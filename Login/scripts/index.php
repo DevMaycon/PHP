@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php
-            echo htmlspecialchars("Welcome".$name, ENT_QUOTES, "UTF-8");
+            echo htmlspecialchars("Welcome".$_GET["Username"]."\nusing password: ".$_GET["Password"], ENT_QUOTES, "UTF-8");
         ?>
     </body>
 </html>
