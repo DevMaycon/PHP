@@ -1,7 +1,5 @@
 # PHP
-
-My projects using HTML, CSS and PHP!
-
-# version 0.1:
-    - initalization of codes
-    - Fixed XSS attack
+# My projects using HTML, CSS and PHP!
+    ! I Am learning !
+    " Don't Give Up "
+    " Give me Ideas "
